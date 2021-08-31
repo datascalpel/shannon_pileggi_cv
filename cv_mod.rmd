@@ -1,5 +1,5 @@
 ---
-title: "Shannon Pileggi's CV"
+title: "Samarth Patel's CV"
 author: Shannon McClintock Pileggi, PhD
 date: "`r Sys.Date()`"
 params:
